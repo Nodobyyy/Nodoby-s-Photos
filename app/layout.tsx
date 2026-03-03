@@ -12,9 +12,9 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "Nodoby's Gallery",
-  description: "Welcome Home",
+export const metadata = {
+  title: "Nodoby's Photos",
+  description: "A personal photo gallery by Nodoby",
 };
 
 export default function RootLayout({
